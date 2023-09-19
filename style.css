@@ -11,7 +11,7 @@ div{
 
 h1{
     background-color: pink;
-    color: blue;
+    color: rgb(236, 94, 226);
     text-align: center;
     width: 100%;
     height: 80px;
@@ -20,30 +20,44 @@ h1{
 }
 
 .lista{
-    margin-top: 150px;
-    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 375px;
     text-align: left;
     float: left;
-    width: 24%;
+    width: 15%;
     border: 3px solid black;
     border-radius: 10px;
     }
 
-article{
-    text-align: center;
 
-}
 .image2 {
     width: 20%;
-    height: auto;
+    height: 165px;
     padding-left: 250px;
     
 
 
 }
-.maincontent {
+
+.rubrik {
     padding: 40px;
-    padding-left: 500px;
+    padding-right: 250px;
+    text-align: center;
+    
+
+}
+
+.text {
+    
+    padding-right: 250px;
+    text-align: center;
+    margin: 3%;
+}
+
+h2 {
+    font-size: 200%;
+    padding: 40px;
 }
 
 .footerEdit {
